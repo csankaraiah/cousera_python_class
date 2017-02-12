@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Assignment.iml" filepath="$PROJECT_DIR$/.idea/Python_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../pythonprac/ds_py/.idea/ds_py.iml" filepath="$PROJECT_DIR$/../../../pythonprac/ds_py/.idea/ds_py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../pythonprac/img_resize/.idea/img_resize.iml" filepath="$PROJECT_DIR$/../../../pythonprac/img_resize/.idea/img_resize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../capstone/pagerank/.idea/pagerank.iml" filepath="$PROJECT_DIR$/../capstone/pagerank/.idea/pagerank.iml" />
+    </modules>
+  </component>
+</project>
