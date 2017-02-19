@@ -6,6 +6,5 @@ except:
     exit()
 for line in fread:
     line_up = line.upper()
-    line_trim =
-    print(line)
+    print(line_up)
 
